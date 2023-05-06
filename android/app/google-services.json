@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235841094614",
+    "project_id": "learning-notes-app",
+    "storage_bucket": "learning-notes-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235841094614:android:68f4d9e0bc087f439cda77",
+        "android_client_info": {
+          "package_name": "com.example.l_notes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235841094614-9vma64d2p4tus5evckhd7hil205u78ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCutZ_TMkk2PQnHXNjSMCQqDNmc6IiLBc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235841094614-9vma64d2p4tus5evckhd7hil205u78ma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
